@@ -1,0 +1,13 @@
+This program uses JSOUP, an external java library.
+
+In order to use JSOUP:
+
+
+1) drag JSOUP.JAR from the workspace/ProjectName folder into the SRC folder of eclipse's package explorer menu. 
+
+2) PROMPT: How to import into project?
+"Copy Files". --> OK
+
+3) right click and "build path to" --> add to build path
+
+Code is now ready to run
